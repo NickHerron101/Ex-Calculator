@@ -11,12 +11,7 @@ for (var i = 0; i < buttons.length; i++) {
 	var b = parseInt(document.getElementById("inputB").value);
 		operate(a, b, event);
 	})
-}
-// function handleClick(event) {
-// 	console.log(event);
-// 	var elementText = event.target.innerHTML;
-// 	saywhat.innerHTML = "You clicked on " + elementText;
-// }
+};
 
 function multiply (a, b) {
 	return a * b;
