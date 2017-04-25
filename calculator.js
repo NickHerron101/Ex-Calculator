@@ -34,7 +34,6 @@ function divide (a, b) {
 	return a / b;
 }
 
-
 function operate (a, b, event) {
 	if (event.target.innerHTML === "Add") {
 		outputDiv.innerHTML = add(a, b);
