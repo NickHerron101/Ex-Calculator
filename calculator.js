@@ -47,10 +47,3 @@ function operate (a, b, event) {
 	}
 }
 
-
-  // Create a function that accepts three arguments.
-  //   1. First number
-  //   2. Second number
-  //   3. A function that performs an operation on them
-
-  // Return the value of the operation.
